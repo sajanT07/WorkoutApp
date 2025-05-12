@@ -1,0 +1,36 @@
+{
+  "exercises": {
+    "exercise_1": {
+      "exerciseId": 1,
+      "name": "__",
+      "weightLevelIncrementLimit": 5,
+      "volumeLevelIncrementLimit": 5,
+      "currentHighest": 225,
+      "volumeLevelStart": 0,
+      "weightLevelStart": 0,
+      "mpGained": 0,
+      "lowBoundVol": 0,
+      "upBoundVol": 5,
+      "lowBoundWeight": 0,
+      "upBoundWeight": 5,
+      "totalWeightXp": 180,
+      "totalVolumeXp": 260,
+      "currentWeightLevel": 2,
+      "currentVolumeLevel": 3,
+      "LastUpdated": "2025-03-18",
+      "PreviousLastUpdated": "2025-04-18",
+      "weightRecords": {
+        "2025-03-18": 225
+      },
+      "volumeRecords": {
+        "2025-03-18": 350
+      }
+    }
+  },
+  "userData": {
+    "mp": 0,
+    "def": 0,
+    "str": 0,
+    "agi": 0
+  }
+}

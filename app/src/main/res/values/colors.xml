@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#FF263238</color> <!-- Dark slate blue (light background elements) -->
+    <color name="blue_500">#FF0D47A1</color> <!-- Navy Blue (primary) -->
+    <color name="blue_700">#FF002171</color> <!-- Deep Indigo (for emphasis) -->
+    <color name="cyan_200">#FF004D60</color> <!-- Muted Teal (cool contrast) -->
+    <color name="cyan_700">#FF00363A</color> <!-- Very dark cyan -->
+    <color name="black">#FF000000</color> <!-- True black -->
+    <color name="white">#FFFFFFFF</color> <!-- For text on dark surfaces -->
+    <color name="colorPrimary">#FF1A237E</color> <!-- Deep Indigo/Navy -->
+    <color name="colorAccent">#FF2962FF</color> <!-- Vivid Blue Accent -->
+</resources>

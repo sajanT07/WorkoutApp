@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/start_to_rest"
+    android:name="androidx.navigation.fragment.NavHostFragment"
+    app:startDestination="@id/startScreenFragment">
+
+    <fragment
+        android:id="@+id/startScreenFragment"
+        android:name="com.example.myapplication.ui.StartScreen.StartScreenFragment"
+        android:label="StartScreenFragment" >
+        <action
+            android:id="@+id/action_startScreenFragment_to_welcomeActivity"
+            app:destination="@id/welcomeActivity" />
+    </fragment>
+    <activity
+        android:id="@+id/welcomeActivity"
+        android:name="com.example.myapplication.ui.WelcomeActivity.WelcomeActivity"
+        android:label="WelcomeActivity" />
+
+
+</navigation>
